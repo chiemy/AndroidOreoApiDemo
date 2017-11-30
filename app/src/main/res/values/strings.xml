@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidOreoApiDemo</string>
+    <string name="notification_channel">通知渠道</string>
+</resources>
